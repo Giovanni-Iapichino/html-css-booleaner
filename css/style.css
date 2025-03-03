@@ -1,0 +1,26 @@
+.container {
+  max-width: 1080px;
+  margin: 0 auto;
+}
+
+.site-header {
+  height: 180px;
+  background-color: rgb(78, 161, 255);
+  background-image: url(../img/pattern.png);
+}
+
+h1 {
+  color: 050505;
+  font-size: 41px;
+  text-align: left;
+  font-family: "Times New Roman", Times, serif;
+  margin-left: 0px;
+  margin-bottom: 0px;
+}
+
+img {
+  float: bottom;
+  margin-left: 10px;
+  margin-top: 93px;
+  height: 70px;
+}
