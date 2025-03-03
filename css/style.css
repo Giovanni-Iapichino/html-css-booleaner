@@ -3,6 +3,10 @@
   margin: 0 auto;
 }
 
+body {
+  margin: 0;
+}
+
 a {
   text-decoration: none;
   color: rgb(96, 178, 218);
@@ -23,10 +27,9 @@ h1 {
   margin-bottom: 0px;
 }
 
-img {
-  float: bottom;
-  margin-left: 10px;
-  margin-top: 93px;
+.logo {
+  margin-left: 5px;
+  margin-top: 100px;
   height: 70px;
 }
 
@@ -40,6 +43,34 @@ time {
   color: rgb(146, 146, 146);
 }
 
-.article-images {
-  :300px ;
+p {
+  font-size: 20px;
+}
+
+li {
+  font-size: 20px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th {
+  text-align: left;
+  background-color: rgb(36, 168, 226);
+  color: #fff;
+  font-size: 20px;
+}
+
+td {
+  background-color: rgb(177, 230, 242);
+  font-size: 20px;
+}
+
+.w-50 {
+  width: 50%;
+}
+
+.bg-white {
+  background-color: #fff;
 }
